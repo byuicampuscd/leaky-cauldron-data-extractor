@@ -10,10 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/byuicampuscd/leaky-cauldron-data-extractor.git"
   },
-  "author": "Andrew Gremlich",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/byuicampuscd/leaky-cauldron-data-extractor/issues"
   },
-  "homepage": "https://github.com/byuicampuscd/leaky-cauldron-data-extractor#readme"
+  "homepage": "https://github.com/byuicampuscd/leaky-cauldron-data-extractor#readme",
+  "author": "Andrew Gremlich",
+  "license": "MIT"
 }
